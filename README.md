@@ -1,14 +1,14 @@
 ## Oi! Eu sou a Maria Fernanda 👋
 
 - 🌱 Estudante de JavaScript e HTML
+- 📫 Contate-me: maria20090320@gmail.com
+- 😄 Pronouns: ela/dela
+-->
 - <h1 align="center">Linguagens Utilizadas</h1>
 <div style="display: inline_block" align="center"><br>
   <img alt="ling" src="https://skillicons.dev/icons?i=js,html,css,c,https://skillicons.dev">
 </div>
 <br>
-- 📫 Contate-me: maria20090320@gmail.com
-- 😄 Pronouns: ela/dela
--->
 <div>
   <a href="https://github.com/maferoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maferoliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -16,12 +16,9 @@
     
 ##
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maferoliveira/maferoliveira/output/pacman-contribution-graph-dark.svg">
-  <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leandrosaltorato/leandrosaltorato/output/pacman-contribution-graph.svg"> -->
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maferoliveira/leandrosaltorato/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/maferoliveira/maferoliveira/output/snake.svg" alt="Snake animation" />
 
+###
  ##
     
 <div>
