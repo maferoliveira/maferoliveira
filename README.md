@@ -3,7 +3,6 @@
 - 🌱 Estudante de JavaScript e HTML
 - 📫 Contate-me: maria20090320@gmail.com
 - 😄 Pronouns: ela/dela
--->
   <h1 align="center">Linguagens Utilizadas</h1>
 <div style="display: inline_block" align="center"><br>
   <img alt="ling" src="https://skillicons.dev/icons?i=js,html,css,c,https://skillicons.dev">
